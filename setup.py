@@ -9,7 +9,7 @@ import os
 
 setup(
     name='test',
-    version=open('version', 'r').read().strip(),
+    version="1.0.0",
     packages=['guoshuai'],
     url='https://github.com/guos825/test_package',
     license='MIT',
