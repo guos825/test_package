@@ -1,9 +1,9 @@
-shouqianba
+guoshuai
 ==========
 
 ### Installation:
 
-`pip install https://github.com/WoSai/shouqianba-webapi-pythondemo`
+`pip install https://github.com/guos825/test_package`
 
 or
 
