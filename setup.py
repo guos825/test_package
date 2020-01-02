@@ -11,7 +11,7 @@ setup(
     name='test',
     version=open('version', 'r').read().strip(),
     packages=['guoshuai'],
-    url='https://github.com/guos825/test_package.git',
+    url='https://github.com/guos825/test_package',
     license='MIT',
     author='Guo Shuai',
     author_email='448139528@qq.com',
