@@ -12,7 +12,7 @@ or
 ### Example:
 
 ```python
-from pipenvtest.test import Test
+from guoshuai.test import Test
 
 
 t = Test()
