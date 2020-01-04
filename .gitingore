@@ -62,4 +62,4 @@ settings.py
 *.pyc
 
 
-.idea/
+.idea/*
