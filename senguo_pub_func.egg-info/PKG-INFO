@@ -1,0 +1,35 @@
+Metadata-Version: 1.1
+Name: senguo-pub-func
+Version: 1.0.0
+Summary: GS Test SDK for Python
+Home-page: https://github.com/guos825/test_package
+Author: Guo Shuai
+Author-email: 448139528@qq.com
+License: MIT
+Description: guoshuai
+        ==========
+        
+        ### Installation:
+        
+        `pip install https://github.com/guos825/test_package`
+        
+        or
+        
+        `python setup.py install`
+        
+        ### Example:
+        
+        ```python
+        from guoshuai.test import Test
+        
+        
+        t = Test()
+        t.test()
+        
+        ```
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
