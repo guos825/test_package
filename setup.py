@@ -8,9 +8,9 @@ except ImportError:
 import os
 
 setup(
-    name='test',
+    name='senguo-pub-func',
     version="1.0.0",
-    packages=['guoshuai'],
+    packages=['senguo'],
     url='https://github.com/guos825/test_package',
     license='MIT',
     author='Guo Shuai',
